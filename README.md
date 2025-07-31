@@ -12,6 +12,8 @@ This solution eliminates dependency on 3rd party tax engine and it uses your own
 
 It suits the country with simple tax scheme. For example: goods and service tax in Australia 10%, New Zealand 15%, Singapore 8% etc
 
+This solution aims to allow the Revenue Cloud customers and partners to have a configurable tax solution for simple tax scheme, without the hassle of 3rd party tax engines, and the costs. Yes, this solution will be free to all Revenue Cloud customers.
+
 Note:
 
 The MVP doesn’t support multiple taxes applied to the same product. (i.e. GST+ stamp duty, CGST+ SGST/UTGST)
